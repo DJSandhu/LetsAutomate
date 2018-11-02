@@ -1,2 +1,2 @@
 # LetsAutomate
-Automating web application using selenium and JAVA
+Automating web application using Selenium and JAVA
